@@ -15,7 +15,5 @@ apt-get install -y  make \
                     exfat-fuse \
                     unrar \
                     unzip \
-                    mcelog \
-                    net-tools
 
 echo "Install Finished!"
